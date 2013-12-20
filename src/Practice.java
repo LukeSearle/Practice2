@@ -13,6 +13,7 @@ import java.util.*;
 public class Practice implements Queue{
 
     public static void main(String[] args) {
+        System.out.print("Hello, Luke");
        
     }
 
