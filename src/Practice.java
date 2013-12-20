@@ -21,6 +21,10 @@ public class Practice implements Queue{
         System.out.print("HHH");
     }
 
+    public void masterTest() {
+        System.out.println("MASTER");
+    }
+
     @Override
     public boolean add(Object e) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
