@@ -16,6 +16,7 @@ public class Practice implements Queue{
         System.out.print("Hello, Luke");
         System.out.println("TEstttt");
         System.out.println("MAster change");
+        System.out.println("Another master");
     }
 
     public void Test() {
