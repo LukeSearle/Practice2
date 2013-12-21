@@ -17,6 +17,7 @@ public class Practice implements Queue{
         System.out.println("TEstttt");
         System.out.println("MAster change");
         System.out.println("Another master");
+        // cont master
     }
 
     public void Test() {
